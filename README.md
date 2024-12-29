@@ -1,5 +1,5 @@
 
-## Hi there 👋
+
 
 ![logo](https://github.com/xcybersquad/xcybersquad/blob/main/Orange%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Neerav Patel</h1>
